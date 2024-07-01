@@ -19,4 +19,8 @@ Technologies that I work on my daily basis:
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-When it comes to **front-end**, my preferred architectural style is when you only use JavaScript when necessary. So I tried **HTMX, AlpineJS and Svelte** and I really liked them.
+When it comes to **front-end**, my preferred architectural style is when you only use JavaScript when necessary.  
+So, besides the famous and mainstream, NextJS and Angular, I really like:
+- HTMX
+- AlpineJS
+- Svelte
