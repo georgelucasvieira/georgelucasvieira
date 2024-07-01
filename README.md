@@ -20,7 +20,7 @@ Technologies that I work on my daily basis:
 
 
 When it comes to **front-end**, my preferred architectural style is when you only use JavaScript when necessary.  
-So, besides the famous and mainstream, NextJS and Angular, I really like:
+So, besides the famous and mainstream NextJS and Angular, I really like:
 - HTMX
 - AlpineJS
 - Svelte
